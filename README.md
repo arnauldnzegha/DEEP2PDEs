@@ -1,2 +1,2 @@
-# DEEP2PDEs
-Deep2pds Cirad
+# DEEP2PDEs (Deep learning to PDEs)
+Cirad / IRD /  Projet
