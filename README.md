@@ -1,4 +1,4 @@
-# DEEP2PDEs (Deep learning to PDEs)
+# DEEP2PDE (Deep learning to PDEs)
 Cirad / IRD /  Projet
 
 
